@@ -22,7 +22,7 @@ SYNTAX FOR PASSING VALUE THROUGH FUNCTION :
 
 [Documentation](https://docs.google.com/document/d/1zfmnOvHjcKslyfm-z009c-TyE43a7gAMFKYeGuma190/edit?usp=sharing)
 
-<img src="https://drive.google.com/file/d/1qIll-Am-Eob4d7DNrGs3rpC3aEDTaYqX/view?usp=drivesdk" alt="GSI" width="50" height="50">
+https://github.com/dineesh-glitch/Grading_Snippet_and_Investigator_-GSI-/assets/64298980/9dd11ed7-f96e-47f3-aad1-ba4c41f5405b
 
 
 This project is used by the following organization:
