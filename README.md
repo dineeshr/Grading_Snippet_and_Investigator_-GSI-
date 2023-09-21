@@ -25,7 +25,7 @@ SYNTAX FOR PASSING VALUE THROUGH FUNCTION :
 ![km_gsi_360p_12f_20230921_195244.gif](https://github.com/dineesh-glitch/Grading_Snippet_and_Investigator_-GSI-/assets/64298980/9dd11ed7-f96e-47f3-aad1-ba4c41f5405b)
 
 
-https://drive.google.com/uc?id=1qI4ZoPR9-IfU0UnkO98lpOQaV0CRjNrQ
+<img src="https://drive.google.com/uc?id=1qI4ZoPR9-IfU0UnkO98lpOQaV0CRjNrQ" alt="GSI" width="500" height="500">
 
 This project is used by the following organization:
 
