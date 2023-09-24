@@ -19,6 +19,8 @@ SYNTAX FOR PASSING VALUE THROUGH FUNCTION :
 
 
 ![km_gsi_360p_12f_20230921_195244.gif](https://github.com/dineesh-glitch/Grading_Snippet_and_Investigator_-GSI-/assets/64298980/9dd11ed7-f96e-47f3-aad1-ba4c41f5405b)
+![ss1](https://github.com/dineeshr/Grading_Snippet_and_Investigator_-GSI-/assets/64298980/66b62cf9-dd15-4bb3-b08f-0b7652d2bdd7)
+![ss](https://github.com/dineeshr/Grading_Snippet_and_Investigator_-GSI-/assets/64298980/012e522c-1c7a-4690-8ee5-78a019dcee8c)
 
 
 
