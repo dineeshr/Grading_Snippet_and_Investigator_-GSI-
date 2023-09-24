@@ -12,7 +12,6 @@ NOTE : GSI MODULE CAN BE USED FOR ALL THE DEPARTMENTS IN UNIVERSITY OF MADRAS ( 
 
 ## Deployment
 
-To deploy this project run
 
 SYNTAX FOR PASSING VALUE THROUGH FUNCTION : 
 # gsi.gsi(students' registration numbers *IN ARRAY FORMAT*, students' date of birth *IN ARRAY FORMAT*, sheet name, file name)
