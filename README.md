@@ -39,5 +39,5 @@ This project is used by the following organization:
 
 DINEESH R
 
-- [@dineesh-glitch](https://www.github.com/dineesh-glitch)
+- [@dineeshr](https://www.github.com/dineeshr)
 
